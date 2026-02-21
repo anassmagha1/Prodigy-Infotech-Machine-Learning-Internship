@@ -12,9 +12,6 @@ Develop a Support Vector Machine (SVM) model to classify images of cats and dogs
 Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
 
 Task 4:
-Create a hand gesture recognition system capable of accurately identifying and classifying various hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control applications.
-Dataset: https://www.kaggle.com/gti-upm/leapgestrecog
-
-Task 5:
 Design a model that can recognize food items from images and estimate their calorie content, allowing users to monitor their dietary intake and make informed nutritional decisions.
+
 Dataset: https://www.kaggle.com/dansbecker/food-101
